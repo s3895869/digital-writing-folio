@@ -120,3 +120,14 @@ See Coded version for the correct formatting.
                       it perha(P)s seemed bigger than it really is.           
               I have not yet b(E)en able 
                  to see it by (D)aylight.
+
+### Coded Poetry
+
+**Dadaist Poem**
+
+Repository:
+https://github.com/s3895869/to-make-a-dadaist-poem-2024
+
+Glitch:
+https://glitch.com/edit/#!/concrete-changeable-quarter?path=README.md%3A1%3A0
+
