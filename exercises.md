@@ -131,3 +131,17 @@ https://github.com/s3895869/to-make-a-dadaist-poem-2024
 Glitch:
 https://glitch.com/edit/#!/concrete-changeable-quarter?path=README.md%3A1%3A0
 
+**N+7 Remix**
+
+Repository:
+https://github.com/s3895869/n-plus-7-remix-2024
+
+Glitch:
+https://glitch.com/edit/#!/glamorous-fortune-operation
+
+## Visual Poetry
+
+Exercises on coding visual poetry with html
+
+Repository:
+https://github.com/s3895869/visual-poetry
